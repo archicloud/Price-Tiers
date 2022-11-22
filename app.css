@@ -1,0 +1,18 @@
+
+
+body {
+    background-color: #A4BE7B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.panel {
+    background-color: white;
+}
